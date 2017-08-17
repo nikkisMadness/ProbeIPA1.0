@@ -1,12 +1,19 @@
+# Many pretty Imports
+# No but for real in theses Files is the bulk of the Text
+# In hindsight this is mor of a boo adventure than a Text adventure
+import FirstChapter
+import SecondChapter
+import ThirdChapter
+import Endings
 print("""Welcome to this little game : The diffrent paths of the little Mermaid.
 \tI hope you enjoy it :) - Made by Nicole Sager\n""")
-URName = input("But bevore we begin this adventure. What's your name?\n->")
-MeanGirl = input("Also please write a name for a lovely girl\n->")
 contin = """
 ----------------------------------------------------
 Press any key to continue.
 ----------------------------------------------------\n
 """
+# this is ASCII Art - pretty isn't it?
+#                   Thats a knife VVV
 print("""
 ----------------------------------------------------
                        __
@@ -24,27 +31,25 @@ print("""
                `-..___..-'                  0
 ----------------------------------------------------\n
 """)
+def loop(y):
+    # Here we made a loop function with the loopfunction we can loop thoug the Text arrays
+    for x in y:
+        print(x)    
+        # the contin input hase the sole purpose to make the reedinexerience easier
+        input(contin)
+    print(f"""----------------------------------------------------""")
 
-print(f"""Once upon a time . . . in a splendid palace on the bed of the bluest ocean, lived a little Mermaid.
-{URName}, the youngest and loveliest of them all, had a beautiful voice, 
-and when she sang, the fishes flocked from all over the sea to listen to her. 
-The shells gaped wide, showing their pearls and even the jellyfish stopped to listen. 
-The young mermaid often sang, and each time, she would gaze upwards, 
-seeking the faint sunlight that scarcely managed to filter down into the depths.
-""")
+# StoryF = FirstChapter.first()
+
 input(contin)
-print("""However the young mermaid always wanted to live above water. 
-This came to be because everytime she went to the surface she saw a handsome and kind prince.
-After quite some time she had to admit that she had secretly fallen in love with him.
-But to be with him she had to become a human. To get some help she startet to sing 
-and when she was surrounded by her fish friends she asked for their help.
-One of them told and warnd her about the Seawitch.
-----------------------------------------------------""")
+loop(FirstChapter.first())
 
 
 # dec --> decision
 def decFirst():
-    seawitch = input(f"""Should {URName} go to the Seawitch? 
+    # First we ask the Question and with the given Value (0 or 1) we choose
+    # If something else is given by the user the function is called again and agin until the user either gies us a correct Value
+    seawitch = input(f"""Should She go to the Seawitch? 
     type 0 for no and 1 for yes\n->""")
     if(seawitch == '0'):
         print("""She decided it wasn't worth the risk asking her for she might hurt the prince.
@@ -58,7 +63,79 @@ def decFirst():
         print("No cheating!! Try agin.")
         decFirst()
 
-decFirst()
+def decSecond():    
+    # First we ask the Question and with the given Value (0 or 1) we choose
+    # If something else is given by the user the function is called again and agin until the user either gies us a correct Value
+    seawitch = input(f"""Should She push the Princess to her doom? 
+    type 0 for no and 1 for yes\n->""")
+    if(seawitch == '0'):
+        print("""'Oh my goodness what was I thinking?' The littel mermaid Asked herself in horror. 
+The Prince soon returned but he wasnt carying any wood, no he was carrying a bouqet of red roses.
+As soon as he was befor the Princess he knelt down and proposed, sumultainiously but not heard
+by anyone but her the little mermaids heart broke.
+        """)
+        chapterTreeVOne()
+    
+    elif (seawitch == '1'):
+        print("""The little mermaid looked one last time at the Princess took a step that hurt like hell
+to stand behind her and pushed. The little mermaid thaught her ears must be bleeding the cry the princess
+made was so grusome. She looked behind her as she saw the prince running in her direction. A bouqet of roses 
+laid on the ground. The Prince cried her name but no awnser came. He sank to his knees, trembling, 
+and then he told the little Mermaid that he had originallyy planned to propose to the lovely princess.
+        """)
+        chapterTreeVTwo()
+
+    else:
+        print("No cheating!! Try agin.")
+        decSecond()
+
+def decThirdVO():
+    # First we ask the Question and with the given Value (0 or 1) we choose
+    # If something else is given by the user the function is called again and agin until the user either gies us a correct Value
+    seawitch = input(f"""Should She kill the Prince? 
+    type 0 for no and 1 for yes\n->""")
+    if(seawitch == '0'):
+        loop(Endings.SecondEnd())
+        pass
+    elif (seawitch == '1'):
+        loop(Endings.ThirdEnd())
+        pass
+        
+    else:
+        print("No cheating!! Try agin.")
+        decThirdVO()
+
+def decThirdVT():
+    # First we ask the Question and with the given Value (0 or 1) we choose
+    # If something else is given by the user the function is called again and agin until the user either gies us a correct Value
+    seawitch = input(f"""Should She kill the Prince? 
+    type 0 for no and 1 for yes\n->""")
+    if(seawitch == '0'):
+        loop(Endings.FourthEnd())
+        pass
+    elif (seawitch == '1'):
+        loop(Endings.FifthEnd())
+        pass
+        
+    else:
+        print("No cheating!! Try agin.")
+        decThirdVT()
+
 
 def chapterOne():
+    # Here We loop with the loopfunction trough the Text array that contains the bulk of the Story
+    loop(SecondChapter.second())
+    decSecond()
 
+def chapterTreeVOne():
+    # Here We loop with the loopfunction trough the Text array that contains the bulk of the Story
+    loop(ThirdChapter.thirdVO())
+    decThirdVO()
+
+def chapterTreeVTwo():
+    # Here We loop with the loopfunction trough the Text array that contains the bulk of the Story
+    loop(ThirdChapter.thirdVT())
+    decThirdVT()
+
+
+decFirst()

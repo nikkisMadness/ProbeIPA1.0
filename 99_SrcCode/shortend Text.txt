@@ -40,12 +40,12 @@ and of people and animals. What seemed nicest of all to her was that up on
 land the flowers were fragrant, for those at the bottom of the sea had no scent. 
 And she thought it was nice that the woods were green, 
 and that the fish you saw among their branches could sing so loud and sweet 
-that it was delightful to hear them. Her grandmother had to call the little birds "fish", 
+that it was delightful to hear them. Her grandmother had to call the little birds 'fish', 
 or the princess would not have known what she was talking about, for she had never seen a bird.
 
-"When you get to be fifteen," her grandmother said, 
-"you will be allowed to rise up out of the ocean and sit on the rocks in the moonlight, 
-to watch the great ships sailing by. You will see woods and towns, too."
+'When you get to be fifteen,' her grandmother said, 
+'you will be allowed to rise up out of the ocean and sit on the rocks in the moonlight, 
+to watch the great ships sailing by. You will see woods and towns, too.'
 
 Next year one of her sisters would be fifteen, but the others - well, 
 since each was a whole year older than the next the youngest still had five long years 
@@ -69,21 +69,21 @@ stretching her white arms up toward the keel of their ship.
 
 And at last she too came to be fifteen.
 
-"Now I'll have you off my hands," said her grandmother, 
-the old queen dowager. "Come, let me adorn you like your sisters." 
+'Now I'll have you off my hands,' said her grandmother, 
+the old queen dowager. 'Come, let me adorn you like your sisters.' 
 In the little maid's hair she put a wreath of white lilies, 
 each petal of which was formed from half of a pearl. 
 And the old queen let eight big oysters fasten themselves 
 to the princess's tail, as a sign of her high rank.
 
-"But that hurts!" said the little mermaid.
+'But that hurts!' said the little mermaid.
 
-"You must put up with a good deal to keep up appearances," her grandmother told her.
+'You must put up with a good deal to keep up appearances,' her grandmother told her.
 
 Oh, how gladly she would have shaken off all these decorations, 
 and laid aside the cumbersome wreath! 
 The red flowers in her garden were much more becoming to her, 
-but she didn't dare to make any changes. "Good-by," she said, 
+but she didn't dare to make any changes. 'Good-by,' she said, 
 and up she went through the water, as light and as sparkling as a bubble.
 
 The sun had just gone down when her head rose above the surface, 
@@ -192,7 +192,7 @@ their most intimate friends. One of these friends knew who the Prince was.
 She too had seen the birthday celebration on the ship. 
 She knew where he came from and where his kingdom was.
 
-"Come, little sister!" said the other princesses. 
+'Come, little sister!' said the other princesses. 
 Arm in arm, they rose from the water in a long row, 
 right in front of where they knew the Prince's palace stood. 
 
@@ -213,14 +213,14 @@ and mount up into the lofty peaks high over the clouds,
 and their lands stretched out in woods and fields farther than the eye could see. 
 There was so much she wanted to know. Her sisters could not answer all her questions, 
 so she asked her old grandmother, 
-who knew about the "upper world," which was what she said was 
+who knew about the 'upper world,' which was what she said was 
 the right name for the countries above the sea.
 
-"If men aren't drowned," the little mermaid asked, 
-"do they live on forever? Don't they die, as we do down here in the sea?"
+'If men aren't drowned,' the little mermaid asked, 
+'do they live on forever? Don't they die, as we do down here in the sea?'
 
-"Yes," the old lady said, 
-"they too must die, and their lifetimes are even shorter than ours. 
+'Yes,' the old lady said, 
+'they too must die, and their lifetimes are even shorter than ours. 
 We can live to be three hundred years old, but when we perish we turn into mere foam on the sea, 
 and haven't even a grave down here among our dear ones. 
 We have no immortal soul, no life hereafter. 
@@ -229,21 +229,21 @@ it never grows again. Human beings, on the contrary,
 have a soul which lives forever, long after their bodies have turned to clay. 
 It rises through thin air, up to the shining stars. 
 Just as we rise through the water to see the lands on earth, 
-so men rise up to beautiful places unknown, which we shall never see."
+so men rise up to beautiful places unknown, which we shall never see.'
 
-"Why weren't we given an immortal soul?" the little mermaid sadly asked. 
-"I would gladly give up my three hundred years if I could be a human being only for a day, 
-and later share in that heavenly realm."
+'Why weren't we given an immortal soul?' the little mermaid sadly asked. 
+'I would gladly give up my three hundred years if I could be a human being only for a day, 
+and later share in that heavenly realm.'
 
-"You must not think about that," said the old lady. 
-"We fare much more happily and are much better off than the folk up there."
+'You must not think about that,' said the old lady. 
+'We fare much more happily and are much better off than the folk up there.'
 
-"Then I must also die and float as foam upon the sea, not hearing the music of the waves, 
+'Then I must also die and float as foam upon the sea, not hearing the music of the waves, 
 and seeing neither the beautiful flowers nor the red sun! 
-Can't I do anything at all to win an immortal soul?"
+Can't I do anything at all to win an immortal soul?'
 
-"No," her grandmother answered, 
-"not unless a human being loved you so much that you meant more 
+'No,' her grandmother answered, 
+'not unless a human being loved you so much that you meant more 
 to him than his father and mother. 
 If his every thought and his whole heart cleaved to you so that he 
 would let a priest join his right hand to yours and would promise to be 
@@ -253,14 +253,14 @@ He would give you a soul and yet keep his own.
 But that can never come to pass. The very thing that is your greatest 
 beauty here in the sea - your fish tail - would be considered ugly on land. 
 They have such poor taste that to be thought beautiful there you have 
-to have two awkward props which they call legs."
+to have two awkward props which they call legs.'
 
 The little mermaid sighed and looked unhappily at her fish tail.
 
-"Come, let us be gay!" the old lady said. 
-"Let us leap and bound throughout the three hundred years that we have to live. 
+'Come, let us be gay!' the old lady said. 
+'Let us leap and bound throughout the three hundred years that we have to live. 
 Surely that is time and to spare, and afterwards we shall be glad enough to rest in our graves. 
-- We are holding a court ball this evening."
+- We are holding a court ball this evening.'
 
 
 You could see the countless fish, great and small, swimming toward the glass walls. 
@@ -284,13 +284,13 @@ while everything there was song and gladness, she sat sadly in her own little ga
 
 
 Then she heard a bugle call through the water, and she thought, 
-"That must mean he is sailing up there, he whom I love more than my father or mother, 
+'That must mean he is sailing up there, he whom I love more than my father or mother, 
 he of whom I am always thinking, 
 and in whose hands I would so willingly trust my lifelong happiness. 
 I dare do anything to win him and to gain an immortal soul. 
 While my sisters are dancing here, in my father's palace, 
 I shall visit the sea witch of whom I have always been so afraid. 
-Perhaps she will be able to advise me and help me."
+Perhaps she will be able to advise me and help me.'
 
 
 
@@ -320,17 +320,17 @@ letting a toad eat out of her mouth just as we might feed sugar to a little cana
 She called the ugly fat water snakes her little chickabiddies, 
 and let them crawl and sprawl about on her spongy bosom.
 
-"I know exactly what you want," said the sea witch. 
-"It is very foolish of you, but just the same you shall have your way, 
+'I know exactly what you want,' said the sea witch. 
+'It is very foolish of you, but just the same you shall have your way, 
 for it will bring you to grief, my proud princess. 
 You want to get rid of your fish tail and have two props instead, 
 so that you can walk about like a human creature, 
-and have the young Prince fall in love with you, and win him and an immortal soul besides." 
+and have the young Prince fall in love with you, and win him and an immortal soul besides.' 
 At this, the witch gave such a loud cackling laugh that the toad and the snakes were shaken to the ground, 
 where they lay writhing.
 
-"You are just in time," said the witch. 
-"After the sun comes up tomorrow, 
+'You are just in time,' said the witch. 
+'After the sun comes up tomorrow, 
 a whole year would have to go by before I could be of any help to you. 
 J shall compound you a draught, and before sunrise you must swim to the shore with it, 
 seat yourself on dry land, and drink the draught down. 
@@ -342,12 +342,12 @@ for you will keep your gliding movement
 and no dancer will be able to tread as lightly as you. 
 But every step you take will feel as if you were treading 
 upon knife blades so sharp that blood must flow. 
-I am willing to help you, but are you willing to suffer all this?"
+I am willing to help you, but are you willing to suffer all this?'
 
-"Yes," the little mermaid said in a trembling voice, 
+'Yes,' the little mermaid said in a trembling voice, 
 as she thought of the Prince and of gaining a human soul.
 
-"Remember!" said the witch. "Once you have taken a human form, 
+'Remember!' said the witch. 'Once you have taken a human form, 
 you can never be a mermaid again. 
 You can never come back through the waters to your sisters, 
 or to your father's palace. And if you do not win the love of the Prince so completely 
@@ -356,27 +356,27 @@ cleaves to you with his every thought and his whole heart,
 and lets the priest join your hands in marriage, 
 then you will win no immortal soul. 
 If he marries someone else, your heart will break on the very next morning, 
-and you will become foam of the sea."
+and you will become foam of the sea.'
 
-"I shall take that risk," said the little mermaid, but she turned as pale as death.
+'I shall take that risk,' said the little mermaid, but she turned as pale as death.
 
-"Also, you will have to pay me," 
-said the witch, "and it is no trifling price that I'm asking. 
+'Also, you will have to pay me,' 
+said the witch, 'and it is no trifling price that I'm asking. 
 You have the sweetest voice of anyone down here at the bottom of the sea, 
 and while I don't doubt that you would like to captivate the Prince with it, 
 you must give this voice to me. 
 I will take the very best thing that you have, in return for my sovereign draught. 
-I must pour my own blood in it to make the drink as sharp as a two-edged sword."
+I must pour my own blood in it to make the drink as sharp as a two-edged sword.'
 
-"But if you take my voice," said the little mermaid, "what will be left to me?"
+'But if you take my voice,' said the little mermaid, 'what will be left to me?'
 
-"Your lovely form," the witch told her, 
-"your gliding movements, and your eloquent eyes. 
+'Your lovely form,' the witch told her, 
+'your gliding movements, and your eloquent eyes. 
 With these you can easily enchant a human heart. 
 Well, have you lost your courage? Stick out your little tongue and I shall cut it off. 
-I'll have my price, and you shall have the potent draught."
+I'll have my price, and you shall have the potent draught.'
 
-"Go ahead," said the little mermaid.
+'Go ahead,' said the little mermaid.
 
 The witch hung her caldron over the flames, to brew the draught. 
 She tied her snakes in a knot and scoured out the pot with them. 
@@ -387,7 +387,7 @@ The witch constantly threw new ingredients into the caldron,
 and it started to boil with a sound like that of a crocodile shedding tears. 
 When the draught was ready at last, it looked as clear as the purest water.
 
-"There's your draught," said the witch. 
+'There's your draught,' said the witch. 
 And she cut off the tongue of the little mermaid, 
 who now was dumb and could neither sing nor talk.
 
@@ -419,7 +419,7 @@ Once clad in the rich silk and muslin garments that were provided for her,
 she was the loveliest person in all the palace, 
 though she was dumb and could neither sing nor speak. 
 
-"Oh," she thought, "if he only knew that I parted with my voice forever so that I could be near him."
+'Oh,' she thought, 'if he only knew that I parted with my voice forever so that I could be near him.'
 
 Graceful slaves now began to dance to the most wonderful music. 
 Then the little mermaid lifted her shapely white arms, rose up on the tips of her toes, 
@@ -440,10 +440,10 @@ but he never thought of making her his Queen.
 Yet she had to be his wife or she would never have an immortal soul, 
 and on the morning after his wedding she would turn into foam on the waves.
 
-"Don't you love me best of all?" the little mermaid's eyes seemed to question him, 
+'Don't you love me best of all?' the little mermaid's eyes seemed to question him, 
 when he took her in his arms and kissed her lovely forehead.
 
-"Yes, you are most dear to me," said the Prince, "for you have the kindest heart. 
+'Yes, you are most dear to me,' said the Prince, 'for you have the kindest heart. 
 You love me more than anyone else does, and you look so much 
 like a young girl I once saw but never shall find again. 
 I was on a ship that was wrecked, and the waves cast me ashore near a holy temple, 
@@ -452,16 +452,16 @@ The youngest of them found me beside the sea and saved my life.
 Though I saw her no more than twice, she is the only person in all the world whom I could love. 
 But you are so much like her that you almost replace the memory of her in my heart. 
 She belongs to that holy temple, therefore it is my good fortune that I have you. 
-We shall never part."
+We shall never part.'
 
-"Alas, he doesn't know it was I who saved his life," the little mermaid thought. 
-"I carried him over the sea to the garden where the temple stands. 
+'Alas, he doesn't know it was I who saved his life,' the little mermaid thought. 
+'I carried him over the sea to the garden where the temple stands. 
 I hid behind the foam and watched to see if anyone would come. 
-I saw the pretty maid he loves better than me." 
+I saw the pretty maid he loves better than me.' 
 A sigh was the only sign of her deep distress, for a mermaid cannot cry. 
-"He says that the other maid belongs to the holy temple. 
+'He says that the other maid belongs to the holy temple. 
 She will never come out into the world, so they will never see each other again. 
-It is I who will care for him, love him, and give all my life to him."
+It is I who will care for him, love him, and give all my life to him.'
 
 Now rumors arose that the Prince was to wed the beautiful daughter of a neighboring King, 
 and that it was for this reason he was having such a superb ship made ready to sail. 
@@ -471,17 +471,17 @@ was to travel with a lordly retinue.
 The little mermaid shook her head and smiled, for she knew the Prince's 
 thoughts far better than anyone else did.
 
-"I am forced to make this journey," he told her. 
-"I must visit the beautiful Princess, for this is my parents' wish, 
+'I am forced to make this journey,' he told her. 
+'I must visit the beautiful Princess, for this is my parents' wish, 
 but they would not have me bring her home as my bride against my own will, 
 and I can never love her. She does not resemble the lovely maiden in the temple, 
 as you do, and if I were to choose a bride, I would sooner choose you, 
-my dear mute foundling with those telling eyes of yours." 
+my dear mute foundling with those telling eyes of yours.' 
 And he kissed her on the mouth, fingered her long hair, 
 and laid his head against her heart so that she came 
 to dream of mortal happiness and an immortal soul.
 
-"I trust you aren't afraid of the sea, my silent child ' he said, 
+'I trust you aren't afraid of the sea, my silent child ' he said, 
 as they went on board the magnificent vessel that was 
 to carry them to the land of the neighboring King. 
 And he told her stories of storms, of ships becalmed, 
@@ -513,12 +513,12 @@ and she had to grant that a more exquisite figure she had never seen.
 The Princess's skin was clear and fair, and behind the long, 
 dark lashes her deep blue eyes were smiling and devoted.
 
-"It was you!" the Prince cried. "You are the one who saved me 
-when I lay like a dead man beside the sea." 
+'It was you!' the Prince cried. 'You are the one who saved me 
+when I lay like a dead man beside the sea.' 
 He clasped the blushing bride of his choice in his arms. 
-"Oh, I am happier than a man should be!" he told his little mermaid. 
-"My fondest dream - that which I never dared to hope - has come true. 
-You will share in my great joy, for you love me more than anyone does."
+'Oh, I am happier than a man should be!' he told his little mermaid. 
+'My fondest dream - that which I never dared to hope - has come true. 
+You will share in my great joy, for you love me more than anyone does.'
 
 The little mermaid kissed his hand and felt that her heart was beginning to break. 
 For the morning after his wedding day would see her dead and turned to watery foam.
@@ -531,7 +531,7 @@ He told her on the way that this might be the most important day in his life.
 When they were by the cliff the Prince excused himself to go and find some wood so the to laydies woldn't 
 be cold.
 
-And as the Princess was standing by the Cliff the little Mermaid asked herself "What if she fell?".
+And as the Princess was standing by the Cliff the little Mermaid asked herself 'What if she fell?'.
 
 
 
@@ -576,8 +576,8 @@ Then she saw her sisters rise up among the waves. They were as pale as she,
 and there was no sign of their lovely long hair that the breezes used to blow. 
 It had all been cut off.
 
-'We have given our hair to the witch," they said, 
-"so that she would send you help, and save you from death tonight. 
+'We have given our hair to the witch,' they said, 
+'so that she would send you help, and save you from death tonight. 
 She gave us a knife. Here it is. See the sharp blade! Before the sun rises, 
 you must strike it into the Prince's heart, 
 and when his warm blood bathes your feet they will grow together and become a fish tail. 
@@ -587,7 +587,7 @@ Make haste! He or you must die before sunrise.
 Our old grandmother is so grief-stricken that her white hair is falling fast, 
 just as ours did under the witch's scissors. Kill the Prince and come back to us. 
 Hurry! Hurry! See that red glow in the heavens! 
-In a few minutes the sun will rise and you must die." 
+In a few minutes the sun will rise and you must die.' 
 So saying, they gave a strange deep sigh and sank beneath the waves.
 
 
@@ -627,11 +627,11 @@ just as no eye on earth could see their forms. Without wings,
 they floated as light as the air itself. The little mermaid discovered 
 that she was shaped like them, and that she was gradually rising up out of the foam.
 
-'Who are you, toward whom I rise?" she asked, and her voice sounded like those above her, 
+'Who are you, toward whom I rise?' she asked, and her voice sounded like those above her, 
 so spiritual that no music on earth could match it.
 
-"We are the daughters of the air," they answered. 
-"A mermaid has no immortal soul, and can never get one unless 
+'We are the daughters of the air,' they answered. 
+'A mermaid has no immortal soul, and can never get one unless 
 she wins the love of a human being. Her eternal life must depend upon a power outside herself. 
 The daughters of the air do not have an immortal soul either, 
 but they can earn one by their good deeds. We fly to the south, 
@@ -643,7 +643,7 @@ we are given an immortal soul and a share in mankind's eternal bliss.
 You, poor little mermaid, have tried with your whole heart to do this too. 
 Your suffering and your loyalty have raised you up into the realm of airy spirits, 
 and now in the course of three hundred years 
-you may earn by your good deeds a soul that will never die."
+you may earn by your good deeds a soul that will never die.'
 
 The little mermaid lifted her clear bright eyes toward God's sun, 
 and for the first time her eyes were wet with tears.
@@ -655,12 +655,12 @@ as if they knew she had hurled herself into the waves.
 Unseen by them, she kissed the bride's forehead, smiled upon the Prince, 
 and rose up with the other daughters of the air to the rose-red clouds that sailed on high.
 
-"This is the way that we shall rise to the kingdom of God, after three hundred years have passed."
+'This is the way that we shall rise to the kingdom of God, after three hundred years have passed.'
 
-"We may get there even sooner," one spirit whispered. 
-"Unseen, we fly into the homes of men, where there are children, 
+'We may get there even sooner,' one spirit whispered. 
+'Unseen, we fly into the homes of men, where there are children, 
 and for every day on which we find a good child who pleases his parents and deserves their love, 
 God shortens our days of trial. The child does not know when we float through his room, 
 but when we smile at him in approval one year is taken from our three hundred. 
 But if we see a naughty, mischievous child we must shed tears of sorrow, 
-and each tear adds a day to the time of our trial."
+and each tear adds a day to the time of our trial.'
