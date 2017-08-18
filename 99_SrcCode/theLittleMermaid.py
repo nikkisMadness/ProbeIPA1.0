@@ -1,10 +1,10 @@
 # Many pretty Imports
 # No but for real in theses Files is the bulk of the Text
 # In hindsight this is mor of a boo adventure than a Text adventure
-import FirstChapter
-import SecondChapter
-import ThirdChapter
-import Endings
+from Story import FirstChapter
+from Story import SecondChapter
+from Story import ThirdChapter
+from Story import Endings
 print("""Welcome to this little game : The diffrent paths of the little Mermaid.
 \tI hope you enjoy it :) - Made by Nicole Sager\n""")
 contin = """
@@ -111,10 +111,10 @@ def decThirdVT():
     seawitch = input(f"""Should She kill the Prince? 
     type 0 for no and 1 for yes\n->""")
     if(seawitch == '0'):
-        loop(Endings.FourthEnd())
+        loop(Endings.FifthEnd())
         pass
     elif (seawitch == '1'):
-        loop(Endings.FifthEnd())
+        loop(Endings.FourthEnd())
         pass
         
     else:
